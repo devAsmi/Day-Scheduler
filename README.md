@@ -1,6 +1,6 @@
-# Day-Scheduler]
+# Day-Scheduler
 
-[Deployed App]()
+[Deployed App](https://devasmi.github.io/Day-Scheduler/)
 
 ## Description
 
@@ -12,3 +12,5 @@ Each block is color-coded indicating past,present, or future based on the curren
 You will be able to enter an event for a time block and save it. The events are persisted in local storage and will be displayed in correct time block even when the page is refreshed.
 
 ## Visual
+
+![Video of Application](./Day_Scheduler.gif)
